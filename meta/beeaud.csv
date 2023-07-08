@@ -1,4 +1,5 @@
-traffic_chunk20210723_161200_54_16bit.wav,fold,6,traffic,FALSE,traffic_chunk20210723_161200_16bit.wav,A
+filename,fold,target,category,esc10,src_file,take
+traffic_chunk20210723_161200_54_16bit.wav,5,6,traffic,FALSE,traffic_chunk20210723_161200_16bit.wav,A
 traffic_chunk20210806_150000_47_16bit.wav,1,6,traffic,FALSE,traffic_chunk20210806_150000_16bit.wav,A
 bee_chunk20210721_163000_20_16bit.wav,1,1,bee,FALSE,bee_chunk20210721_163000_20._16bit.wav,A
 traffic_chunk20210805_090000_50_16bit.wav,1,6,traffic,FALSE,traffic_chunk20210805_090000_16bit.wav,A
@@ -2180,7 +2181,6 @@ traffic_chunk20210723_161200_45_16bit.wav,5,6,traffic,FALSE,traffic_chunk2021072
 other_chunk20210806_140000_34_16bit.wav,5,5,other,FALSE,other_chunk20210806_140000_3_16bit.wav,A
 traffic_chunk20210722_073000_9_16bit.wav,5,6,traffic,FALSE,traffic_chunk20210722_073000_16bit.wav,A
 traffic_chunk20210724_111200_14_16bit.wav,5,6,traffic,FALSE,traffic_chunk20210724_111200_16bit.wav,A
-filename,5,target,category,esc10,src_file,take
 traffic_chunk20210727_175000_28_16bit.wav,5,6,traffic,FALSE,traffic_chunk20210727_175000_16bit.wav,A
 traffic_chunk20210805_090000_57_16bit.wav,5,6,traffic,FALSE,traffic_chunk20210805_090000_16bit.wav,A
 traffic_chunk20210806_100000_23_16bit.wav,5,6,traffic,FALSE,traffic_chunk20210806_100000_16bit.wav,A
